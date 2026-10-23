@@ -47,7 +47,7 @@ Version    Name                                Repository           Description
 ```
 PS C:\Users\captain\Documents> New-Item -Path ".\captain-cabin\captain-wardrobe" -ItemType "Directory"
 
-   Directory: C:\Users\captain\Documents\captain-cabin
+	Directory: C:\Users\captain\Documents\captain-cabin
 
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
