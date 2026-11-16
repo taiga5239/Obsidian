@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
     "graph-style"
-  ]
+  ],
+  "showRibbon": true
 }

@@ -6,36 +6,8 @@
       {
         "id": "af695d6306f80247",
         "type": "tabs",
-        "dimension": 45.107398568019086,
+        "dimension": 46.36038186157518,
         "children": [
-          {
-            "id": "8c5168f8b726665a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Индивидуальное обучение.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Индивидуальное обучение"
-            }
-          },
-          {
-            "id": "de45e05e05f69318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOC/tools/CyberShef.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CyberShef"
-            }
-          },
           {
             "id": "96dc20a1cd7a4d48",
             "type": "leaf",
@@ -50,13 +22,12 @@
               "title": "Индивидуальное обучение"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "811fd6c0c096ffd0",
         "type": "tabs",
-        "dimension": 54.892601431980914,
+        "dimension": 53.639618138424815,
         "children": [
           {
             "id": "887b8ceec99435d1",
@@ -91,7 +62,7 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -104,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gobuster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,54 +221,53 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "887b8ceec99435d1",
+  "active": "96dc20a1cd7a4d48",
   "lastOpenFiles": [
-    "Индивидуальное обучение.md",
-    "программирование/SQL.md",
-    "программирование/Java Script.md",
-    "программирование/bash-скриптинг.md",
-    "программирование/PHP.md",
-    "CAPA.md",
-    "SOC/tools/CyberShef.md",
-    "картинки/сок_карт/Pasted image 20261112221124.png",
+    "owasp top 10/A01 Broken access control (BAC).md",
+    "картинки/owasp_карт",
+    "картинки/owasp_карт/Pasted image 20261116230131.png",
+    "Таски ctf/Nahamstore/Pasted image 20261116202141.png",
+    "Университетское обучение.md",
+    "Таски ctf/Nahamstore/Pasted image 20261116202042.png",
+    "Таски ctf/Nahamstore/Pasted image 20261116202015.png",
+    "Таски ctf/Nahamstore/Pasted image 20261116201300.png",
+    "Таски ctf/Nahamstore/Pasted image 20261116200051.png",
+    "web/инъекции/A05 Injection.md",
+    "Таски ctf/Nahamstore/NahamStore.md",
+    "Таски ctf/Nahamstore/Pasted image 20261116193309.png",
+    "Таски ctf/Nahamstore/Pasted image 20261116193306.png",
+    "Таски ctf/Nahamstore/Pasted image 20261116193050.png",
+    "Таски ctf/Nahamstore",
+    "Таски ctf/Решение тасков.md",
+    "Таски ctf/Nahamstore/Pasted image 20261116192057.png",
+    "owasp top 10/A08 Software or data integrity failures.md",
+    "owasp top 10/AS04 Cryptographic failures.md",
+    "web/tools/Gobuster.md",
+    "owasp top 10/AS06 Insecure design.md",
+    "owasp top 10/AS03 Software supply chain failures.md",
+    "owasp top 10/AS02 Security misconfiguration.md",
+    "owasp top 10/A09 Logging and alerting failures.md",
+    "owasp top 10/A07 Authentication failures.md",
+    "owasp top 10/OWASP Top-10.md",
+    "Основы ИБ/Основы информационной безопасности.md",
+    "Основы ИБ/Уязвимость информации.md",
+    "Основы ИБ/Защита информации от НСД.md",
+    "Основы ИБ/Нормативы.md",
+    "Основы ИБ/Программы-вирусы.md",
+    "Основы ИБ/Блокчейн.md",
+    "Введение1/Основы сетей/wind/cli windows.md",
+    "Введение1/Основы сетей/Основы сетей.md",
+    "Osint/Домены, поддомены, каталоги.md",
+    "СОСы/DNS и DHCP.md",
+    "SOC/tools/FlareVM арсенал инструментов.md",
     "SOC/tools",
-    "SOC/tools/OpenVAS.md",
-    "SOC/tools/tools_defend.md",
-    "Введение1/infra/tools/tools_adds.md",
-    "Введение1/infra/tools/Mimikatz.md",
-    "Введение1/infra/tools/Impacket.md",
-    "Введение1/infra/tools/Cobalt Strike.md",
     "Введение1/infra/tools",
     "Введение1/infra",
-    "Введение1/infra/Инфра.md",
-    "Университетское обучение.md",
-    "картинки/Введение1/Pasted image 20261112144022.png",
-    "web/tools/Web_tools.md",
-    "SOC/PT NAD/Атаки (pt_win)/Windows admin shares.md",
-    "SOC/SIEM-системы.md",
-    "Введение1/shells/Shell listeners.md",
-    "картинки/Введение1/Pasted image 20261112144148.png",
-    "картинки/Введение1/Pasted image 20261112144137.png",
-    "картинки/Введение1/Pasted image 20261112144125.png",
-    "картинки/Введение1/Pasted image 20261112144113.png",
-    "картинки/Введение1/Pasted image 20261112144101.png",
-    "картинки/Введение1/Pasted image 20261112144049.png",
-    "картинки/Введение1/Pasted image 20261112144038.png",
-    "картинки/Введение1/Pasted image 20261112143913.png",
-    "Введение1/Основы эксплуат/CVE/CVE.md",
-    "Введение1/Введение1.md",
     "Введение1/Основы сетей/tools",
-    "SOC/IDS.md",
-    "Введение1/Основы эксплуат/metasploit/Meterpreter.md",
-    "SOC/firewall.md",
-    "СОСы/Windows Firewal.md",
-    "SOC/EDR-системы.md",
     "Введение1/shells",
     "web/tools",
     "картинки/web",
     "Введение1/Основы эксплуат/metasploit",
-    "Введение1/Основы эксплуат/CVE",
-    "Введение1/Основы эксплуат",
     "Без названия.canvas"
   ]
 }
