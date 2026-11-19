@@ -14,6 +14,118 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "web/инъекции/sql injection/SQL-injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL-injection"
+            }
+          },
+          {
+            "id": "59ea7b798f959c2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/инъекции/sql injection/SQL-injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL-injection"
+            }
+          },
+          {
+            "id": "b80008973d63f924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/инъекции/sql injection/In-Band sql.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "In-Band sql"
+            }
+          },
+          {
+            "id": "68f302142b49555d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/инъекции/sql injection/In-Band sql.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "In-Band sql"
+            }
+          },
+          {
+            "id": "10cd4e30dbfe09c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/инъекции/sql injection/Error-Based SQL Injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Error-Based SQL Injection"
+            }
+          },
+          {
+            "id": "9d1a082207bf161a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/инъекции/sql injection/Error-Based SQL Injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Error-Based SQL Injection"
+            }
+          },
+          {
+            "id": "274cfa5cf8f5494f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "web/инъекции/sql injection/stored SQL injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stored SQL injection"
+            }
+          },
+          {
+            "id": "2e4e01c858f47793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "owasp top 10/A05 Injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A05 Injection"
+            }
+          },
+          {
+            "id": "334350187eaa2753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Индивидуальное обучение.md",
                 "mode": "source",
                 "source": false
@@ -21,8 +133,23 @@
               "icon": "lucide-file",
               "title": "Индивидуальное обучение"
             }
+          },
+          {
+            "id": "5bee7e1fd24a5f03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oracle бд/Многотабличные запросы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Многотабличные запросы"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       },
       {
         "id": "811fd6c0c096ffd0",
@@ -75,7 +202,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gobuster",
+                "query": "union",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,8 +348,33 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "96dc20a1cd7a4d48",
+  "active": "334350187eaa2753",
   "lastOpenFiles": [
+    "owasp top 10/Mishandling or exceptional conditions.md",
+    "owasp top 10/sec. misconfig/Error-based XXE.md",
+    "web/инъекции/NoSQL-injection.md",
+    "Pasted image 20261119224001.png",
+    "картинки/owasp_карт/Pasted image 20261119222356.png",
+    "картинки/owasp_карт/Pasted image 20261119194136.png",
+    "owasp top 10/A05 Injection.md",
+    "web/инъекции/sql injection/SQL-injection.md",
+    "web/инъекции/sql injection/Out-of-Band sql.md",
+    "картинки/owasp_карт/Pasted image 20261119155054.png",
+    "web/инъекции/sql injection/Обход фильтров SQLi.md",
+    "web/инъекции/sql injection/stored SQL injection.md",
+    "web/инъекции/sql injection/Error-Based SQL Injection.md",
+    "web/инъекции/sql injection/In-Band sql.md",
+    "web/инъекции/sql injection/Blind sql.md",
+    "web/инъекции/sql injection/Union-Based SQL Injection.md",
+    "web/инъекции/sql injection",
+    "web/инъекции/XSS-injection.md",
+    "Oracle бд/Многотабличные запросы.md",
+    "web/инъекции/Command Injection.md",
+    "owasp top 10/AS04 Cryptographic failures.md",
+    "owasp top 10/AS03 Software supply chain failures.md",
+    "owasp top 10/AS02 Security misconfiguration.md",
+    "owasp top 10/sec. misconfig/XML eXternal Entity (XXE).md",
+    "Индивидуальное обучение.md",
     "owasp top 10/A01 Broken access control (BAC).md",
     "картинки/owasp_карт",
     "картинки/owasp_карт/Pasted image 20261116230131.png",
@@ -232,34 +384,11 @@
     "Таски ctf/Nahamstore/Pasted image 20261116202015.png",
     "Таски ctf/Nahamstore/Pasted image 20261116201300.png",
     "Таски ctf/Nahamstore/Pasted image 20261116200051.png",
-    "web/инъекции/A05 Injection.md",
     "Таски ctf/Nahamstore/NahamStore.md",
-    "Таски ctf/Nahamstore/Pasted image 20261116193309.png",
-    "Таски ctf/Nahamstore/Pasted image 20261116193306.png",
-    "Таски ctf/Nahamstore/Pasted image 20261116193050.png",
     "Таски ctf/Nahamstore",
     "Таски ctf/Решение тасков.md",
-    "Таски ctf/Nahamstore/Pasted image 20261116192057.png",
     "owasp top 10/A08 Software or data integrity failures.md",
-    "owasp top 10/AS04 Cryptographic failures.md",
     "web/tools/Gobuster.md",
-    "owasp top 10/AS06 Insecure design.md",
-    "owasp top 10/AS03 Software supply chain failures.md",
-    "owasp top 10/AS02 Security misconfiguration.md",
-    "owasp top 10/A09 Logging and alerting failures.md",
-    "owasp top 10/A07 Authentication failures.md",
-    "owasp top 10/OWASP Top-10.md",
-    "Основы ИБ/Основы информационной безопасности.md",
-    "Основы ИБ/Уязвимость информации.md",
-    "Основы ИБ/Защита информации от НСД.md",
-    "Основы ИБ/Нормативы.md",
-    "Основы ИБ/Программы-вирусы.md",
-    "Основы ИБ/Блокчейн.md",
-    "Введение1/Основы сетей/wind/cli windows.md",
-    "Введение1/Основы сетей/Основы сетей.md",
-    "Osint/Домены, поддомены, каталоги.md",
-    "СОСы/DNS и DHCP.md",
-    "SOC/tools/FlareVM арсенал инструментов.md",
     "SOC/tools",
     "Введение1/infra/tools",
     "Введение1/infra",
@@ -267,7 +396,6 @@
     "Введение1/shells",
     "web/tools",
     "картинки/web",
-    "Введение1/Основы эксплуат/metasploit",
     "Без названия.canvas"
   ]
 }
