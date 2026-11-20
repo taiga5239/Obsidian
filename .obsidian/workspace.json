@@ -4,124 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "af695d6306f80247",
+        "id": "811fd6c0c096ffd0",
         "type": "tabs",
-        "dimension": 46.36038186157518,
         "children": [
           {
-            "id": "96dc20a1cd7a4d48",
+            "id": "55666cab40c093aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/инъекции/sql injection/SQL-injection.md",
+                "file": "owasp top 10/sec. misconfig/Reflected XXE (отражаемые XXE).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL-injection"
+              "title": "Reflected XXE (отражаемые XXE)"
             }
           },
           {
-            "id": "59ea7b798f959c2a",
+            "id": "0b9ce75057ba8282",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/инъекции/sql injection/SQL-injection.md",
+                "file": "web/инъекции/SSTI/SSTI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL-injection"
+              "title": "SSTI"
             }
           },
           {
-            "id": "b80008973d63f924",
+            "id": "59b24bccc1e0dd76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/инъекции/sql injection/In-Band sql.md",
+                "file": "web/инъекции/SSTI/PHP - Smarty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "In-Band sql"
+              "title": "PHP - Smarty"
             }
           },
           {
-            "id": "68f302142b49555d",
+            "id": "cff7ff8a8fc63d7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/инъекции/sql injection/In-Band sql.md",
+                "file": "web/инъекции/SSTI/NodeJS - Pug.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "In-Band sql"
+              "title": "NodeJS - Pug"
             }
           },
           {
-            "id": "10cd4e30dbfe09c0",
+            "id": "1b056478a0d4f757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/инъекции/sql injection/Error-Based SQL Injection.md",
+                "file": "web/инъекции/SSTI/SSTI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Error-Based SQL Injection"
+              "title": "SSTI"
             }
           },
           {
-            "id": "9d1a082207bf161a",
+            "id": "ec903c69a5765177",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/инъекции/sql injection/Error-Based SQL Injection.md",
+                "file": "web/инъекции/LDAP injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Error-Based SQL Injection"
+              "title": "LDAP injection"
             }
           },
           {
-            "id": "274cfa5cf8f5494f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "web/инъекции/sql injection/stored SQL injection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "stored SQL injection"
-            }
-          },
-          {
-            "id": "2e4e01c858f47793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "owasp top 10/A05 Injection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "A05 Injection"
-            }
-          },
-          {
-            "id": "334350187eaa2753",
+            "id": "111d1fa305a6ea30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -133,28 +104,13 @@
               "icon": "lucide-file",
               "title": "Индивидуальное обучение"
             }
-          },
-          {
-            "id": "5bee7e1fd24a5f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oracle бд/Многотабличные запросы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Многотабличные запросы"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
-        "id": "811fd6c0c096ffd0",
+        "id": "94cb7fd6c8664dca",
         "type": "tabs",
-        "dimension": 53.639618138424815,
         "children": [
           {
             "id": "887b8ceec99435d1",
@@ -348,54 +304,54 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "334350187eaa2753",
+  "active": "111d1fa305a6ea30",
   "lastOpenFiles": [
-    "owasp top 10/Mishandling or exceptional conditions.md",
+    "web/tools/OWASP ZAP.md",
+    "web/инъекции/LDAP injection.md",
+    "web/инъекции/SSTI/SSTI.md",
+    "web/инъекции/SSTI/PHP - Smarty.md",
+    "web/инъекции/SSTI/NodeJS - Pug.md",
+    "web/инъекции/SSTI/Python - Jinja2.md",
+    "web/инъекции/SSTI",
+    "картинки/owasp_карт/Pasted image 20261120225339.png",
+    "owasp top 10/sec. misconfig/Reflected XXE (отражаемые XXE).md",
+    "web/инъекции/html-injection.md",
+    "owasp top 10/sec. misconfig/Direct reflection.md",
     "owasp top 10/sec. misconfig/Error-based XXE.md",
-    "web/инъекции/NoSQL-injection.md",
-    "Pasted image 20261119224001.png",
-    "картинки/owasp_карт/Pasted image 20261119222356.png",
+    "owasp top 10/sec. misconfig/Out-of-band.md",
+    "owasp top 10/sec. misconfig/Blind XXE (слепые XXE).md",
+    "owasp top 10/sec. misconfig/CDATA reflection.md",
+    "owasp top 10/sec. misconfig/XML eXternal Entity (XXE).md",
+    "Oracle бд/Многотабличные запросы.md",
     "картинки/owasp_карт/Pasted image 20261119194136.png",
-    "owasp top 10/A05 Injection.md",
-    "web/инъекции/sql injection/SQL-injection.md",
-    "web/инъекции/sql injection/Out-of-Band sql.md",
-    "картинки/owasp_карт/Pasted image 20261119155054.png",
-    "web/инъекции/sql injection/Обход фильтров SQLi.md",
     "web/инъекции/sql injection/stored SQL injection.md",
     "web/инъекции/sql injection/Error-Based SQL Injection.md",
     "web/инъекции/sql injection/In-Band sql.md",
-    "web/инъекции/sql injection/Blind sql.md",
-    "web/инъекции/sql injection/Union-Based SQL Injection.md",
-    "web/инъекции/sql injection",
-    "web/инъекции/XSS-injection.md",
-    "Oracle бд/Многотабличные запросы.md",
-    "web/инъекции/Command Injection.md",
-    "owasp top 10/AS04 Cryptographic failures.md",
-    "owasp top 10/AS03 Software supply chain failures.md",
-    "owasp top 10/AS02 Security misconfiguration.md",
-    "owasp top 10/sec. misconfig/XML eXternal Entity (XXE).md",
-    "Индивидуальное обучение.md",
-    "owasp top 10/A01 Broken access control (BAC).md",
-    "картинки/owasp_карт",
+    "web/инъекции/sql injection/SQL-injection.md",
+    "owasp top 10/A05 Injection.md",
+    "картинки/owasp_карт/Pasted image 20261119155054.png",
     "картинки/owasp_карт/Pasted image 20261116230131.png",
+    "картинки/owasp_карт/Pasted image 20261119224001.png",
+    "картинки/owasp_карт/Pasted image 20261120204939.png",
+    "owasp top 10/AS02 Security misconfiguration.md",
+    "Индивидуальное обучение.md",
+    "owasp top 10/Mishandling or exceptional conditions.md",
+    "web/инъекции/NoSQL-injection.md",
+    "картинки/owasp_карт/Pasted image 20261119222356.png",
+    "web/инъекции/sql injection/Out-of-Band sql.md",
+    "web/инъекции/sql injection/Обход фильтров SQLi.md",
+    "web/инъекции/sql injection",
+    "картинки/owasp_карт",
     "Таски ctf/Nahamstore/Pasted image 20261116202141.png",
-    "Университетское обучение.md",
     "Таски ctf/Nahamstore/Pasted image 20261116202042.png",
     "Таски ctf/Nahamstore/Pasted image 20261116202015.png",
-    "Таски ctf/Nahamstore/Pasted image 20261116201300.png",
-    "Таски ctf/Nahamstore/Pasted image 20261116200051.png",
-    "Таски ctf/Nahamstore/NahamStore.md",
     "Таски ctf/Nahamstore",
-    "Таски ctf/Решение тасков.md",
-    "owasp top 10/A08 Software or data integrity failures.md",
-    "web/tools/Gobuster.md",
     "SOC/tools",
     "Введение1/infra/tools",
     "Введение1/infra",
     "Введение1/Основы сетей/tools",
     "Введение1/shells",
     "web/tools",
-    "картинки/web",
     "Без названия.canvas"
   ]
 }
